@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Colli\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Colli\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages"
+    ]
+}
+
